@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tripathi</h1>
-<h3 align="center">A Passionate Web Developer From India</h3>
+<h3 align="center">A Passionate in Cloud Computing and DevOps  From India</h3>
 
 🌱 I’m currently learning Web Development ,Devops ,Cloud ,AWS
 
