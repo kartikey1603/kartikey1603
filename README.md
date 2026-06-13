@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kartikey Tripathi</h1>
 <h3 align="center">A Passionate in Cloud Computing and DevOps  From India</h3>
 
-🌱 I’m currently learning Web Development ,Devops ,Cloud ,AWS
+🌱 I’m currently learning Devops ,Cloud ,AWS
 
 ## 🚀 Skills
 
